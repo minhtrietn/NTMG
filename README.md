@@ -3,3 +3,4 @@ Làm cho vui thôi nha các bác :> (Mong hai chị không quýnh nhau vì vụ 
 
 # REQUIREMENTS
 pip install pygame
+pip install pygame_ce
